@@ -9,12 +9,12 @@ I build production-grade **Retrieval-Augmented Generation (RAG)** and **LLM-powe
 applications** — from designing retrieval pipelines and evaluating model quality to
 shipping the interfaces that put these systems in users' hands.
 
-- 🔭 Building **AI, RAG, and LLM-based applications**
+- 🔭 Working on **AI, RAG, and LLM-based applications**
 - 🧪 Focused on **LLM evaluation, benchmarking, and testing**
-- 🔎 Working with **vector databases, embeddings, and retrieval systems**
-- 🛠️ Building with **Python, C++, TypeScript, and React**
-- 🌱 Exploring **MLOps, scalable AI deployment, and distributed systems**
-- ⚡ Driven to solve real-world problems with AI
+- 📚 Working with **Vector Databases, Embeddings, and Retrieval Systems**
+- 💻 Building applications using **Python, C++, TypeScript, and React**
+- 🌱 Learning **MLOps, scalable AI deployment, and distributed systems**
+- ⚡ Passionate about solving real-world problems using AI
 
 ---
 
@@ -44,12 +44,48 @@ shipping the interfaces that put these systems in users' hands.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jenis-1722&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenis-1722&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
+
+### 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenis-1722&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jenis-1722&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jenis-1722&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+### 💡 Favorite Quote
+
+> "First, solve the problem. Then, write the code."
+
+---
+
+<p align="center">⭐ Thanks for visiting my profile!</p>
