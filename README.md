@@ -78,7 +78,6 @@ shipping the interfaces that put these systems in users' hands.
 </p>
 
 ---
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
