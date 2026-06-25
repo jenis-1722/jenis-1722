@@ -17,11 +17,12 @@ shipping the interfaces that put these systems in users' hands.
 - 🔭 Working on **AI, RAG, and LLM-based applications**
 - 🧪 Focused on **LLM evaluation, benchmarking, and testing**
 - 📚 Working with **Vector Databases, Embeddings, and Retrieval Systems**
-- 💻 Building applications using **Python, C++, TypeScript, and React**
+- 💻 Building applications using **Python, AI/ML, and Data Science**
 - 🌱 Learning **MLOps, scalable AI deployment, and distributed systems**
 - ⚡ Passionate about solving real-world problems using AI
 
 ---
+
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -42,27 +43,25 @@ shipping the interfaces that put these systems in users' hands.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-**Backend & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+**Backend & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jenis-1722&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenis-1722&layout=compact&theme=tokyonight" alt="Top Languages" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=jenis-1722&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenis-1722&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---
@@ -70,7 +69,7 @@ shipping the interfaces that put these systems in users' hands.
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenis-1722&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenis-1722&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
@@ -78,7 +77,7 @@ shipping the interfaces that put these systems in users' hands.
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jenis-1722&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jenis-1722&theme=github-compact" alt="Contribution Graph" />
 </p>
 
 ---
@@ -97,7 +96,6 @@ shipping the interfaces that put these systems in users' hands.
   <a href="https://www.linkedin.com/in/jenis-dusara-44b559224/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:jenishdusara78@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://jenis.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-
 </p>
 
 ---
@@ -109,5 +107,4 @@ shipping the interfaces that put these systems in users' hands.
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer&text=⭐%20Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=twinkling" />
-
 
