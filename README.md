@@ -110,6 +110,4 @@ shipping the interfaces that put these systems in users' hands.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=120&section=footer&text=⭐%20Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=twinkling" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jenis-1722&label=Profile%20Views&color=7aa2f7&style=flat" alt="Profile Views" />
-</p>
+
